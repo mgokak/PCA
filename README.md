@@ -92,4 +92,4 @@ This helps understand how PCA separates data in lower dimensions.
 
 **Manasa Vijayendra Gokak**  
 Graduate Student – Data Science  
-DePaul University
+
